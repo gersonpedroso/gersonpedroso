@@ -9,3 +9,8 @@ Sou programador, estou aprendendo e começando a criar projetos com:
 
 💻 🎯Desenvolvedor em constante evolução
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=gersonpedroso&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
